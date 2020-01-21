@@ -10,7 +10,7 @@
 ## Krótko o projekcie
 
 Nizej przedstawione sa screeny mojego pierwszego większego projektu, stworzonego podczas nauki frameworku laravel. Wiedze zglebialem
-ogladajac kurs na kanale freeCodeCamp. Obecnie ucze sie od osoby na kanale Coder's Tape. Nizej przedstawiam kilka screenow z mojego "dzieła", ktore byc moze bede w przyszlosci nieco poprawiac.
+ogladajac kurs na kanale freeCodeCamp. Nizej przedstawiam kilka screenów z mojego "dzieła", ktore byc moze bede w przyszlosci nieco poprawiac.
 
 <p align="center">
     <a href="https://ibb.co/59hhD5n"><img src="https://i.ibb.co/59hhD5n/Screenshot-2020-01-05-Instakilo.png" alt="Screenshot-2020-01-05-Instakilo" border="0"></a>
@@ -19,7 +19,9 @@ ogladajac kurs na kanale freeCodeCamp. Obecnie ucze sie od osoby na kanale Coder
     <a href="https://ibb.co/yRK0HpW"><img src="https://i.ibb.co/yRK0HpW/Screenshot-2020-01-05-Instakilo-2.png" alt="Screenshot-2020-01-05-Instakilo-2" border="0"></a>
 </p>
 
-<p style="font-size:50%;"> Koty to jedyne obrazki, ktore mialem "pod reka" :D </p>
+Prosze nie zwracac uwagi na zamieszczone obrazki :)
+
+
 
 ## About Laravel
 
@@ -27,8 +29,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
