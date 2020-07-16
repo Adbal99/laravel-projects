@@ -7,10 +7,12 @@
 </p>
 
 
-## Krótko o projekcie
+## Shortly about project
 
-Nizej przedstawione sa screeny mojego pierwszego większego projektu, stworzonego podczas nauki frameworku laravel. Wiedze zglebialem
-ogladajac kurs na kanale freeCodeCamp. Nizej przedstawiam kilka screenów z mojego "dzieła", ktore byc moze bede w przyszlosci nieco poprawiac.
+Below there are images of my very first project made in laravel and my first steps into web developing.
+Whole project was made with help of FreeCodeCamp course available on youtube. 
+
+This is simple Instagram clone, where user is able to add the photo, update their profile, comment pictures or follow other's profiles
 
 <p align="center">
     <a href="https://ibb.co/59hhD5n"><img src="https://i.ibb.co/59hhD5n/Screenshot-2020-01-05-Instakilo.png" alt="Screenshot-2020-01-05-Instakilo" border="0"></a>
@@ -19,9 +21,9 @@ ogladajac kurs na kanale freeCodeCamp. Nizej przedstawiam kilka screenów z moje
     <a href="https://ibb.co/yRK0HpW"><img src="https://i.ibb.co/yRK0HpW/Screenshot-2020-01-05-Instakilo-2.png" alt="Screenshot-2020-01-05-Instakilo-2" border="0"></a>
 </p>
 
-Prosze nie zwracac uwagi na zamieszczone obrazki :)
 
 
+Sorry for poor readme :)
 
 ## About Laravel
 
